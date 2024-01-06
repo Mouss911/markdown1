@@ -1,0 +1,16 @@
+.gauche{
+  height: 450px;
+  border-radius: 10px;
+  background: skyblue;
+}
+
+.droite{
+  height: 250px;
+  border-radius: 10px;
+}
+hr{
+  color: #fff;
+}
+button{
+  opacity: 0.5;
+}
