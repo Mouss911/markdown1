@@ -1,9 +1,9 @@
-import Ecriture from "./Ecriture";
+import Markdown from "./Markdown";
 
 const App = () => {
   return (
     <div className="App">
-      <Ecriture />
+      <Markdown />
     </div>
   );
 }
